@@ -1,3 +1,8 @@
+/* Yleinen tyyli */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: "Inconsolata", monospace;
@@ -12,35 +17,47 @@ body {
     background-attachment: fixed;
 }
 
+section {
+    min-height: 100vh;
+    box-sizing: border-box;
+    padding-top: 90px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    scroll-margin-top: 80px;
+}
+
+h1 {
+    font-size: 44px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+/* Navigointipalkki */
 .navbar {
-    background: #222;
-    height: 80px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
+    background-color: #222;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-}
-
-.logo {
-    height: 45px;
-    width: auto;
-    margin-left: 20px;
-}
-
-.navbar a {
-    color: white;
-    text-decoration: none;
-    margin-left: 20px;
+    height: 80px;
+    padding-right: 30px;
+    padding-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
     height: 50px;
     width: auto;
     max-width: 150px;
+    margin-left: 20px;
     object-fit: contain;
 }
 
@@ -60,51 +77,40 @@ body {
     color: orange;
 }
 
-h1 {
-    font-size: 44px;
-    text-align: center;
-    margin-bottom: 20px;
-}
-
+/* Etusivu */
 #home img {
     display: block;
-    margin: 0 auto;
     width: 42%;
     height: auto;
+    margin: 0 auto;
 }
 
-p {
-    max-width: 600px;
-    margin: 20px auto;
-}
-
-html {
-    scroll-behavior: smooth;
-}
-
-section {
-    min-height: 100vh;
-    box-sizing: border-box;
-    padding: 90px 20px 40px;
-    scroll-margin-top: 0;
-}
-
+/* Tuotteet */
 .product-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: stretch;
     gap: 25px;
     padding: 20px;
-    flex-wrap: wrap;
 }
 
 .product {
     background-color: white;
     width: 250px;
     padding: 15px;
+    box-sizing: border-box;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-    box-sizing: border-box;
+}
+
+.product h2 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 20px;   
 }
 
 .product img {
@@ -113,30 +119,25 @@ section {
     object-fit: contain;
 }
 
-.product h2 {
-    text-align: center;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 0;
-    margin-bottom: 20px;
-}
 .product p {
     max-width: none;
-    margin: 15px 0;
-    text-align: left;
+    margin-top: 15px;
+    margin-right: 0;
+    margin-bottom: 15px;
+    margin-left: 0;
     font-size: 14px;
     line-height: 1.5;
 }
 
+/* Yhteystiedot */
 .contact-container {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     gap: 40px;
-    padding: 20px 40px;
-    text-align: left;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 .contact-left,
@@ -156,6 +157,7 @@ section {
 }
 
 .contact-right img {
+    display: block;
     width: 100%;
     max-width: 600px;
     height: auto;
