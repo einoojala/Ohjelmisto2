@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>JavaScript tehtävä</title>
+  </head>
+  <body>
+    <h1>Neliöjuuren laskeminen</h1>
+    <p id="target"></p>
+
+    <script>
+      "use strict";
+      const vastaus = confirm("Lasketaanko neliöjuuri?");
+
+      if (vastaus === true) {
+        const luku = Number(prompt("Anna luku:"));
+
+        if (luku < 0) {
+          document.querySelector("#target").innerHTML =
+            "Negatiivisen luvun neliöjuurta ei ole määritelty.";
+        } else {
+          const juuri = Math.sqrt(luku);
+          document.querySelector("#target").innerHTML =
+            "Neliöjuuri on " + juuri;
+        }
+      } else {
+        document.querySelector("#target").innerHTML =
+          "Neliöjuurta ei lasketa.";
+      }
+    </script>
+  </body>
+</html>
