@@ -1,16 +1,30 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
     <title>JavaScript tehtävä</title>
   </head>
   <body>
-    <h1></h1>
+    <h1>Karkausvuodet</h1>
     <p id="target"></p>
+
     <script>
-       "use strict";
-       
-       document.querySelector("#target").innerHTML =
-        "";
+      "use strict";
+
+      const alkuvuosi = Number(prompt("Anna alkuvuosi:"));
+      const loppuvuosi = Number(prompt("Anna loppuvuosi:"));
+      let tulos = "<ul>";
+      for (let vuosi = alkuvuosi; vuosi <= loppuvuosi; vuosi++) {
+        if (
+          vuosi % 400 === 0 ||
+          (vuosi % 4 === 0 && vuosi % 100 !== 0)
+        ) {
+          tulos += "<li>" + vuosi + "</li>";
+        }
+      }
+      
+      tulos += "</ul>";
+      document.querySelector("#target").innerHTML = tulos;
     </script>
   </body>
 </html>

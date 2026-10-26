@@ -1,16 +1,25 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
     <title>JavaScript tehtävä</title>
   </head>
   <body>
-    <h1></h1>
+    <h1>Nopan heittäminen</h1>
     <p id="target"></p>
+
     <script>
-       "use strict";
-       
-       document.querySelector("#target").innerHTML =
-        "";
+      "use strict";
+
+      const maara = Number(prompt("Montako kertaa noppaa heitetään?"));
+      let summa = 0;
+      for (let i = 0; i < maara; i++) {
+        const silmaluku = Math.floor(Math.random() * 6) + 1;
+        summa += silmaluku;
+      }
+
+      document.querySelector("#target").innerHTML =
+        "Heittojen silmälukujen summa on " + summa;
     </script>
   </body>
 </html>
