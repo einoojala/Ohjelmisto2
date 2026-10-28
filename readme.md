@@ -3,6 +3,7 @@
 Eino Ojala
 
 ### JS-moduulit 1 ja 2
+Linkki GitHub sivulle: https://einoojala.github.io/Ohjelmisto2/
 
 Tehdyt tehtävät:
 
