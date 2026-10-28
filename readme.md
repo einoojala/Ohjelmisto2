@@ -11,7 +11,7 @@ Tehdyt tehtävät:
 [Tehtävä 1 JS](JS_moduuli1ja2/tehtava1/tehtava1.js)
 - Tehtävä 2: 2 p
 [Tehtävä 2 HTML](JS_moduuli1ja2/tehtava2/tehtava2.html)
-[Tehtävä 2 js](JS_moduuli1ja2/tehtava2/tehtava2.js)
+[Tehtävä 2 JS](JS_moduuli1ja2/tehtava2/tehtava2.js)
 - Tehtävä 3: 3 p
 [Tehtävä 3 HTML](JS_moduuli1ja2/tehtava3/tehtava3.html)
 [Tehtävä 3 JS](JS_moduuli1ja2/tehtava3/tehtava3.js)
