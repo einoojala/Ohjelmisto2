@@ -65,7 +65,12 @@ Tehdyt tehtävät:
 - Tehtävä 5 2p
 [Tehtävä 5 HTML](JS_moduuli3/tehtava5/tehtava5.html)
 [Tehtävä 5 JS](JS_moduuli3/tehtava5/tehtava5.js)
-
+- Tehtävä 6 2p
+[Tehtävä 6 HTML](JS_moduuli3/tehtava6/tehtava6.html)
+[Tehtävä 6 JS](JS_moduuli3/tehtava6/tehtava6.js)
+- Tehtävä 7 2p
+[Tehtävä 7 HTML](JS_moduuli3/tehtava7/tehtava7.html)
+[Tehtävä 7 JS](JS_moduuli3/tehtava7/tehtava7.js)
 
 **Yhteensä p**
 
