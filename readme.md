@@ -1,13 +1,12 @@
-## Ohjelmisto 2 -ohjelmointitehtävät
+# Ohjelmisto 2 -ohjelmointitehtävät
 
 Eino Ojala
 
-### JS-moduulit 1 ja 2
-### JS-moduulit 1 ja 2
-[Katso moduulin tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduuli1ja2/)
+## JS-moduulit 1 ja 2
+
+Ohjelmointitehtävät: [Avaa tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/)
 
 Tehdyt tehtävät:
-
 - Tehtävä 1: 1 p
 [Tehtävä 1 HTML](JS_moduuli1ja2/tehtava1/tehtava1.html)
 [Tehtävä 1 JS](JS_moduuli1ja2/tehtava1/tehtava1.js)
@@ -42,23 +41,12 @@ Tehdyt tehtävät:
 **Yhteensä 27 p**
 
 - Yritin opetella käyttämään tehtävissä tiiviimpää koodaustapaa, yhdistämällä vaiheita yhteen riviin.
-- En valitettavasti saanut toimivaan tuota users.metropolia.fi-palvelua, en jaksanut enää alkaa tappelemaan sen kanssa, kun yritin saada sitä toimimaan monta tuntia. Käytin sen sijaan gitHubin palvelua.
+- En saanut valitettavasti koulun users.metropolia.fi-palvelua toimimaan lukuisista yrityksistä huolimatta, enkä enää jaksanut käyttää aikaa sen kanssa tappelemiseen. Käytin GitHubin palvelua, jota oli helppo käyttää.
 
-### JS-moduuli 3
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa]
+## JS-moduuli 3
 
-Tehdyt tehtävät:
-
-- Tehtävä 
-
-**Yhteensä p**
-
-Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
-
-### JS-moduuli 4
-
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa]
+Ohjelmointitehtävät: [Avaa tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/)
 
 Tehdyt tehtävät:
 
@@ -68,9 +56,21 @@ Tehdyt tehtävät:
 
 Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
 
-### JS-moduuli 5
+## JS-moduuli 4
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa]
+Ohjelmointitehtävät: [Avaa tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/)
+
+Tehdyt tehtävät:
+
+- Tehtävä 
+
+**Yhteensä p**
+
+Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
+
+## JS-moduuli 5
+
+Ohjelmointitehtävät: [Avaa tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/)
 
 Tehdyt tehtävät:
 
