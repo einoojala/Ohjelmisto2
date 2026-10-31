@@ -4,7 +4,8 @@ Eino Ojala
 
 ## JS-moduulit 1 ja 2
 
-Ohjelmointitehtävät: [Mod 1 ja 2 tehtävät GitHub Pagesissa](JS_moduuli1ja2/linkit_1_2.html)
+[Ohjelmisto 2 GitHub Page](https://einoojala.github.io/Ohjelmisto2)
+[Mod 1 ja 2 tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/JS_moduuli1ja2/linkit_1_2.html)
 
 Tehdyt tehtävät:
 - Tehtävä 1: 1 p
