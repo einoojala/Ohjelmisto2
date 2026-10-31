@@ -42,7 +42,6 @@ Tehdyt tehtävät:
 
 **Yhteensä 27 p**
 
-- Yritin opetella käyttämään tehtävissä tiiviimpää koodaustapaa, yhdistämällä vaiheita yhteen riviin.
 - En saanut valitettavasti koulun users.metropolia.fi-palvelua toimimaan lukuisista yrityksistä huolimatta, enkä enää jaksanut käyttää aikaa sen kanssa tappelemiseen. Käytin GitHubin palvelua, jota oli helppo käyttää.
 
 
