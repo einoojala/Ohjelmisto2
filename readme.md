@@ -50,6 +50,29 @@ Tehdyt tehtävät:
 
 ## JS-moduuli 4
 
+Tehtävät: [Mod 4 tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/JS_moduuli4/linkit_4.html)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1 2p
+- Tehtävä 2 2p
+- Tehtävä 3 2p
+- Tehtävä 4 2p
+- Tehtävä 5 5p
+- Tehtävä 6 1p
+- Tehtävä 7 2p
+- Tehtävä 8 4p
+- Tehtävä 9 4p
+- Tehtävä 10 2p
+- Tehtävä 11 6p
+
+**Yhteensä 32 p**
+
+- Tein tehtävän 11 CSS-tiedostoon pienen lisäyksen, jotta hiiri muuttuu kädeksi, kun sen vie suuren kuvan sulkemismerkin päälle.
+
+
+## Python Flask- palvelin
+
 Tehtävät:
 
 Tehdyt tehtävät:
