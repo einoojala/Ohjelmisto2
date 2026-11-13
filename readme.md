@@ -21,7 +21,7 @@ Tehdyt tehtävät:
 - Tehtävä 9: 2 p
 - Tehtävä 10: 5 p
 
-**Yhteensä 27p**
+**Yhteensä: 27p**
 
 - En saanut valitettavasti koulun users.metropolia.fi-palvelua toimimaan lukuisista yrityksistä huolimatta, enkä enää jaksanut käyttää aikaa sen kanssa tappelemiseen. Käytin GitHubin Pages palvelua, jota oli helppo käyttää.
 
@@ -43,7 +43,7 @@ Tehdyt tehtävät:
 - Tehtävä 9: 3p
 - Tehtävä 10: 8p
 
-**Yhteensä 27p**
+**Yhteensä: 27p**
 
 - Tein tehtävään 10 lisäominaisuutena sen, että ohjelma tarkistaa, päättyikö äänestys tasan.
 
@@ -66,7 +66,7 @@ Tehdyt tehtävät:
 - Tehtävä 10: 2p
 - Tehtävä 11: 6p
 
-**Yhteensä 32p**
+**Yhteensä: 32p**
 
 - Tein tehtävän 11 CSS-tiedostoon pienen lisäyksen, jotta hiiri muuttuu kädeksi, kun sen vie suuren kuvan sulkemismerkin päälle.
 
@@ -80,7 +80,7 @@ Tehdyt tehtävät:
 - Tehtävä 1: 4p
 - Tehtävä 2: 10p
 
-**Yhteensä 14p**
+**Yhteensä: 14p**
 
 
 ## JS-moduuli 5
@@ -96,5 +96,5 @@ Tehdyt tehtävät:
 - Tehtävä 5: 2p
 - Tehtävä 6: 2p
 
-**Yhteensä 18p**
+**Yhteensä: 18p**
 
