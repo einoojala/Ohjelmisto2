@@ -32,16 +32,16 @@ Tehtävät: [Mod 3 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduul
 
 Tehdyt tehtävät:
 
-- Tehtävä 1 2p
-- Tehtävä 2 2p
-- Tehtävä 3 2p
-- Tehtävä 4 2p
-- Tehtävä 5 2p
-- Tehtävä 6 2p
-- Tehtävä 7 2p
-- Tehtävä 8 2p
-- Tehtävä 9 3p
-- Tehtävä 10 8p
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 2p
+- Tehtävä 5: 2p
+- Tehtävä 6: 2p
+- Tehtävä 7: 2p
+- Tehtävä 8: 2p
+- Tehtävä 9: 3p
+- Tehtävä 10: 8p
 
 **Yhteensä 27p**
 
@@ -54,17 +54,17 @@ Tehtävät: [Mod 4 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduul
 
 Tehdyt tehtävät:
 
-- Tehtävä 1 2p
-- Tehtävä 2 2p
-- Tehtävä 3 2p
-- Tehtävä 4 2p
-- Tehtävä 5 5p
-- Tehtävä 6 1p
-- Tehtävä 7 2p
-- Tehtävä 8 4p
-- Tehtävä 9 4p
-- Tehtävä 10 2p
-- Tehtävä 11 6p
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 2p
+- Tehtävä 5: 5p
+- Tehtävä 6: 1p
+- Tehtävä 7: 2p
+- Tehtävä 8: 4p
+- Tehtävä 9: 4p
+- Tehtävä 10: 2p
+- Tehtävä 11: 6p
 
 **Yhteensä 32p**
 
@@ -77,8 +77,8 @@ Tehtävät: [Python Flask- palvelin tehtävät](https://einoojala.github.io/Ohje
 
 Tehdyt tehtävät:
 
-- Tehtävä 1 4p
-- Tehtävä 2 10p
+- Tehtävä 1: 4p
+- Tehtävä 2: 10p
 
 **Yhteensä 14p**
 
@@ -89,12 +89,12 @@ Tehtävät: [Mod 5 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduul
 
 Tehdyt tehtävät:
 
-- Tehtävä 1 2p
-- Tehtävä 2 3p
-- Tehtävä 3 7p
-- Tehtävä 4 2p
-- Tehtävä 5 2p
-- Tehtävä 6 2p
+- Tehtävä 1: 2p
+- Tehtävä 2: 3p
+- Tehtävä 3: 7p
+- Tehtävä 4: 2p
+- Tehtävä 5: 2p
+- Tehtävä 6: 2p
 
 **Yhteensä 18p**
 
