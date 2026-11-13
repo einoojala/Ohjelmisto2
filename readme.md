@@ -6,7 +6,7 @@ Eino Ojala
 
 GitHub Pages: [Ohjelmisto 2 GitHub Page](https://einoojala.github.io/Ohjelmisto2)
 
-Tehtävät: [Mod 1 ja 2 tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/JS_moduuli1ja2/linkit_1_2.html)
+Tehtävät: [Mod 1 ja 2 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduuli1ja2/linkit_1_2.html)
 
 Tehdyt tehtävät:
 
@@ -28,7 +28,7 @@ Tehdyt tehtävät:
 
 ## JS-moduuli 3
 
-Tehtävät: [Mod 3 tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/JS_moduuli3/linkit_3.html)
+Tehtävät: [Mod 3 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduuli3/linkit_3.html)
 
 Tehdyt tehtävät:
 
@@ -50,7 +50,7 @@ Tehdyt tehtävät:
 
 ## JS-moduuli 4
 
-Tehtävät: [Mod 4 tehtävät GitHub Pagesissa](https://einoojala.github.io/Ohjelmisto2/JS_moduuli4/linkit_4.html)
+Tehtävät: [Mod 4 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduuli4/linkit_4.html)
 
 Tehdyt tehtävät:
 
@@ -73,22 +73,28 @@ Tehdyt tehtävät:
 
 ## Python Flask- palvelin
 
-Tehtävät:
+Tehtävät: [Python Flask- palvelin tehtävät](https://einoojala.github.io/Ohjelmisto2/python_flask_server/linkit_pythonflask.html)
 
 Tehdyt tehtävät:
 
-- Tehtävä 
+- Tehtävä 1 4p
+- Tehtävä 2 10p
 
-**Yhteensä p**
+**Yhteensä 14 p**
 
 
 ## JS-moduuli 5
 
-Tehtävät:
+Tehtävät: [Mod 5 tehtävät](https://einoojala.github.io/Ohjelmisto2/JS_moduuli5/linkit_5.html)
 
 Tehdyt tehtävät:
 
-- Tehtävä 
+- Tehtävä 1 2p
+- Tehtävä 2 3p
+- Tehtävä 3 7p
+- Tehtävä 4 2p
+- Tehtävä 5 2p
+- Tehtävä 6 2p
 
 **Yhteensä p**
 
